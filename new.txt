@@ -1,5 +1,7 @@
+나는 메인 브렌치다. 씩씩하게 하자
 sdfasdfsadfsadfsdf:`
 
+sdfasdfnrwrw
 total 58
 drwxr-xr-x 1 alsxo 197609     0 May  8 14:32 ./
 drwxr-xr-x 1 alsxo 197609     0 Apr 24 02:26 ../
