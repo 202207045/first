@@ -13,7 +13,7 @@ sad
 f
 
 
-total 58
+totottotototototal 58
 drwxr-xr-x 1 alsxo 197609     0 May  8 14:32 ./
 drwxr-xr-x 1 alsxo 197609     0 Apr 24 02:26 ../
 drwxr-xr-x 1 alsxo 197609     0 May  8 14:32 .git/
